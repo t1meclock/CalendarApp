@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lightGray">#EEE</color>
+    <color name="gray">#888</color>
+    <color name="blue">#0000FF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purplelight">#9966cc</color>
+    <color name="purplemedium">#9370db</color>
+    <color name="maxlightpurple">#c5b2ec</color>
+    <color name="maxmaxlightpurple">#ebd7ff</color>
+    <color name="pers">#f5f3df</color>
+</resources>
